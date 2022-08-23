@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./images/PacMan1.png" alt="Workspace" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/SpongeBob_eyes.png" alt="Workspace" />
 
   &#xa0;
 
